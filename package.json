@@ -1,0 +1,9 @@
+{
+  "name": "@acvtech5b9/ramki-optima-multi-language-locals",
+  "version": "1.0.0",
+  "description": "Shared i18n locales for RAMKI OPTIMA multi language locals",
+  "license": "UNLICENSED",
+  "private": false,
+  "files": ["locales"],
+  "sideEffects": false
+}
